@@ -1,0 +1,62 @@
+.form-control.me-2.ps-3::placeholder {
+  text-align: right;
+}
+
+.offers {
+  width: 34rem;
+}
+.home {
+  width: 24rem;
+}
+.disc {
+  background-color: #ecb312;
+  border-color: transparent;
+  border-radius: 3px;
+}
+.containerr {
+  margin: 0px 65px;
+}
+.wdth {
+  width: 90%;
+}
+
+.discount-badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background-color: rgb(181, 0, 0);
+  color: white;
+  font-size: 0.88rem;
+  font-weight: bold;
+  padding: 4px 9px;
+  border-radius: 38%;
+  text-align: center;
+  z-index: 1;
+}
+
+.card-hover {
+  overflow: hidden; /* Ensures the zoomed image stays inside the card */
+  position: relative; /* Ensures the image is positioned relative to the card */
+}
+
+.card-hover:hover .zoom-img {
+  transform: scale(1.1); /* Slight zoom-in effect */
+  transition: transform 0.3s ease-in-out; /* Smooth zoom transition */
+}
+
+.zoom-img {
+  transition: transform 0.3s ease-in-out; /* Smooth transition back when hover ends */
+  width: 100%; /* Ensure image fills the container */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.textline {
+  text-decoration-line: line-through;
+}
+.btnn {
+  margin-left: 35px;
+}
+.padding {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
