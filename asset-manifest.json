@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Comodo-App/static/css/main.aee5428f.css",
-    "main.js": "/Comodo-App/static/js/main.7cb9cef9.js",
+    "main.js": "/Comodo-App/static/js/main.d8b11d1a.js",
     "static/js/453.0e165d14.chunk.js": "/Comodo-App/static/js/453.0e165d14.chunk.js",
     "static/media/offer.png": "/Comodo-App/static/media/offer.92f597c4c9b07b6dc6c0.png",
     "static/media/chair.png": "/Comodo-App/static/media/chair.a50ad8a0ad56446bcc12.png",
@@ -24,11 +24,11 @@
     "static/media/slick.woff": "/Comodo-App/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Comodo-App/index.html",
     "main.aee5428f.css.map": "/Comodo-App/static/css/main.aee5428f.css.map",
-    "main.7cb9cef9.js.map": "/Comodo-App/static/js/main.7cb9cef9.js.map",
+    "main.d8b11d1a.js.map": "/Comodo-App/static/js/main.d8b11d1a.js.map",
     "453.0e165d14.chunk.js.map": "/Comodo-App/static/js/453.0e165d14.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aee5428f.css",
-    "static/js/main.7cb9cef9.js"
+    "static/js/main.d8b11d1a.js"
   ]
 }
