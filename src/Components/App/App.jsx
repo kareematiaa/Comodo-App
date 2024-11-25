@@ -18,8 +18,10 @@ function App() {
       path: "/",
       element: <MasterLayout />,
       children: [
-        { path: "/", element: <Home /> },
+        // { path: "/", element: <Home /> },
+        { path: "", element: <Navigate to="/home" /> },
         { path: "home", element: <Home /> },
+        { path: "Comodo-App", element: <Home /> },
         { path: "alldata", element: <AllData /> },
         { path: "details", element: <Details /> },
         { path: "discounts", element: <Discounts /> },
